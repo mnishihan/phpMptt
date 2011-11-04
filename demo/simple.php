@@ -1,5 +1,5 @@
 <?php
-require_once 'phpMptt.php';
+require_once '../phpMptt.php';
 
 $helper = new MPTT_Helper(array("table_name" => "categories"));
 
