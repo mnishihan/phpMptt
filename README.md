@@ -16,6 +16,8 @@ Why another?
 Basic Usage
 ------------
 
+###Required Table Structure
+
 
 Advanced Usage
 --------------
